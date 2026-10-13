@@ -3,7 +3,7 @@ import hashlib
 import base64
 import zlib
 
-KEY = "AETHER_"
+KEY = "AETHER_ARCHIVE"
 
 print("Copying employee records...")
 time.sleep(1)
